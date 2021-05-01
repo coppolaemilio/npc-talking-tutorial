@@ -1,5 +1,13 @@
 A very common use of dialogues is when speaking to an NPC. There are many ways of achieving this, but here you have a simple one to follow step by step:
 
+
+# Project setup
+
+1. Install Dialogic 1.1 from the asset lib
+2. Enable Dialogic and restart the project
+3. Create a new timeline called `timeline-1`
+
+
 # Character movement.
 Let's create a character and add basic movement to it:
 
