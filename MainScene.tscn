@@ -43,6 +43,3 @@ texture = ExtResource( 1 )
 [node name="QuestionMark" type="Sprite" parent="NPC"]
 position = Vector2( 0, -65 )
 texture = ExtResource( 4 )
-
-[connection signal="body_entered" from="NPC" to="NPC" method="_on_NPC_body_entered"]
-[connection signal="body_exited" from="NPC" to="NPC" method="_on_NPC_body_exited"]
