@@ -3,10 +3,10 @@ A very common use of dialogues is when speaking to an NPC. There are many ways o
 # Character movement.
 Let's create a character and add basic movement to it:
 
-	1. Make the KinematicBody2D
-	2. Add a Sprite to it
-  3. Add a collision shape
-	4. Add a script:
+1. Make the KinematicBody2D
+2. Add a Sprite to it
+3. Add a collision shape
+4. Add a script:
 
 ```gdscript
 extends KinematicBody2D
@@ -34,11 +34,11 @@ func _physics_process(delta):
 
 # NPC
 
-	1. Create an Area2D node
-  2. Add a collision shape with the range for your dialog to be able to trigger
-  3. Add a Sprite
-  4. Add an indicator for when the Player can talk with the NPC
-  5. Add a script to the Area2D node
+1. Create an Area2D node
+2. Add a collision shape with the range for your dialog to be able to trigger
+3. Add a Sprite
+4. Add an indicator for when the Player can talk with the NPC
+5. Add a script to the Area2D node
 
 ```gdscript
 extends Area2D
