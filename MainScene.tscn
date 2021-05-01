@@ -44,8 +44,5 @@ texture = ExtResource( 1 )
 position = Vector2( 0, -65 )
 texture = ExtResource( 4 )
 
-[node name="Timer" type="Timer" parent="NPC"]
-
 [connection signal="body_entered" from="NPC" to="NPC" method="_on_NPC_body_entered"]
 [connection signal="body_exited" from="NPC" to="NPC" method="_on_NPC_body_exited"]
-[connection signal="timeout" from="NPC/Timer" to="NPC" method="_on_Timer_timeout"]
