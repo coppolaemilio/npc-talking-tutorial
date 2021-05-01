@@ -2,6 +2,7 @@ A very common use of dialogues is when speaking to an NPC. There are many ways o
 
 # Character movement.
 Let's create a character and add basic movement to it:
+
 	1. Make the KinematicBody2D
 	2. Add a Sprite to it
   3. Add a collision shape
@@ -32,6 +33,7 @@ func _physics_process(delta):
 ```
 
 # NPC
+
 	1. Create an Area2D node
   2. Add a collision shape with the range for your dialog to be able to trigger
   3. Add a Sprite
