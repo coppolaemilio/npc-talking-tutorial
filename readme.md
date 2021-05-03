@@ -1,6 +1,10 @@
 A very common use of dialogues is when speaking to an NPC. There are many ways of achieving this, but here you have a simple one to follow step by step:
 
 
+# [Watch Video](https://www.youtube.com/watch?v=gZ3h09B7Utc)
+
+
+
 # Project setup
 
 1. Install Dialogic 1.1 from the asset lib
