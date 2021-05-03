@@ -2,6 +2,7 @@ A very common use of dialogues is when speaking to an NPC. There are many ways o
 
 
 # [Watch Video](https://www.youtube.com/watch?v=gZ3h09B7Utc)
+![npc-talking-tutorial](https://user-images.githubusercontent.com/2206700/116833547-1df82300-abba-11eb-8fe6-7eaa7e0058b6.png)
 
 
 
